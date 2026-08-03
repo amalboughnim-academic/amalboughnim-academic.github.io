@@ -72,7 +72,7 @@ Our everyday life is shaped by social and economic networks: the information
 we have access to, how we form opinions, the spread of disease, labour market 
 outcomes, and even friendship formation. This course provides a rigorous yet 
 accessible introduction to network theory, with a strong empirical component 
-using Python and NetworkX. Designed by Prof. Nicolas Carayol, the course was entrusted to me fully as lecturer in 2026, after three years as teaching assistant.
+using Python and NetworkX. The course is designed by **Prof. Nicolas Carayol**.
 
 This section is designed for students with **no prior programming experience** 
 — the first lab session introduces Python from scratch before moving into 
