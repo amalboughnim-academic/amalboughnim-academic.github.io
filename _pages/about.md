@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Amal Boughnim, Postdoctoral Researcher at Bordeaux School of Economics
 
 profile:
   align: right
@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! My name is Amal Boughnim and I am a Postdoctoral Researcher in the Economics of Science and Innovation. Welcome to my website :) 
+Hello! My name is Amal. Welcome to my website :) 
 
 
 My PhD dissertation (and related papers) examines gender disparities in French academic careers, looking at how they emerge and persist across scientific productivity, collaboration patterns, and research agendas. Drawing on data covering over 90,000 researchers and more than 60 years of publications, I show that the gender productivity gap in French academia widens over the course of a career before only partially narrowing, and that this pattern connects to broader questions of access to funding, to promotion, and to collaboration opportunities. I find that women who match men’s output tend to do so through richer, more diverse collaboration networks, suggesting they draw on a different kind of collaborative capital to reach parity. Using the LabEx funding program as a quasi-experiment, I further show that cluster funding disproportionately expands women’s networks, mainly through new ties outside their existing cluster, while men’s gains stay concentrated within it  patterns more consistent with constrained access to collaborative opportunities than with differing preferences. Finally, using mathematics research as a case study, I document significant gender differences in research agendas and positioning within the field and across disciplinary boundaries: women’s agendas are more specialized within mathematics, spanning fewer subfields, but more diverse in drawing on and reaching literature in other disciplines, particularly the life sciences, and this interdisciplinary engagement mitigates, rather than explains, the gender productivity gap.
