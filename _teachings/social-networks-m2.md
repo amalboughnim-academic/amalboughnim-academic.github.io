@@ -38,28 +38,28 @@ schedule:
     description: >
       Centrality measures: Bonacich, Katz, Prestige, and PageRank. 
       Economic interpretation and applications.
-  - week: 6
+  - week: 2
     topic: "Lab 1 — Introduction to Python and Basic Network Measures"
     description: >
       Python basics for students new to programming. First steps 
       with NetworkX: importing data, creating graphs, computing 
       basic measures (degree, density, diameter).
-  - week: 7
+  - week: 3
     topic: "Lab 2 — Directed Graphs and Network Visualisation"
     description: >
       Working with directed graphs in NetworkX. Creating 
       meaningful and interpretable network visualisations.
-  - week: 8
+  - week: 4
     topic: "Lab 3 — Random Networks, Scale-Free Networks and Degree Distributions"
     description: >
       Generating Erdős–Rényi and Barabási–Albert networks. 
       Analysing and visualising degree distributions.
-  - week: 9
+  - week: 5
     topic: "Lab 4 — Clustering and Community Detection"
     description: >
       Computing clustering coefficients. Applying community 
       detection algorithms (Louvain, Girvan-Newman) in NetworkX.
-  - week: 10
+  - week: 6
     topic: "Lab 5 — Network Centrality Measures"
     description: >
       Computing and comparing centrality measures in NetworkX. 
