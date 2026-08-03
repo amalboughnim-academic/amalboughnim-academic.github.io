@@ -96,6 +96,6 @@ competitive markets.
 
 ## My Role
 
-I teach the **TD sessions** (13.5 hours) — practical problem-solving classes 
+I taught the **TD sessions** (13.5 hours per group, 3 to 5 groups depending on the year) — practical problem-solving classes 
 where students work through exercises on each topic covered in the lectures. 
-The lectures (38.5 hours CM) are taught by the course professor.
+The lectures (CM) are taught by the course professor, Pr. Pascale Roux.
