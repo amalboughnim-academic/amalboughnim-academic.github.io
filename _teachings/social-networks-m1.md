@@ -68,7 +68,7 @@ schedule:
 
 This course introduces the theory and empirical analysis of social and 
 economic networks, at the crossroads of economics, sociology, mathematics, 
-and computer science. Designed by Prof. Nicolas Carayol, the course was entrusted to me fully as lecturer in 2026, after three years as teaching assistant.
+and computer science. The course is designed by **Prof. Nicolas Carayol**.
 
 **Part I — Network Theory**
 - Introduction and basic notation
