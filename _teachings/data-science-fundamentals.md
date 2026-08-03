@@ -64,7 +64,7 @@ schedule:
 This course studies the relationship between market structure, firm strategy, 
 and market efficiency. It builds on the competitive equilibrium framework 
 introduced in Microeconomics 1 and 2 (L1) and extends it to imperfectly 
-competitive markets.
+competitive markets. Designed by Prof. Pascale Roux, the practical classes of this course were entrusted to me during the years 2023 though 2025. 
 
 **Part I — Competitive Equilibrium and Welfare**
 - Partial equilibrium review (short and long run)
