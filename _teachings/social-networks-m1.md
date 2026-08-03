@@ -1,109 +1,112 @@
 ---
 layout: course
-title: "Analyse des Réseaux"
+title: "Network Analysis"
 description: >
-  Introduction à la théorie et à l'analyse empirique des réseaux sociaux et 
-  économiques. Cours en Python/NetworkX destiné aux étudiants de M1 déjà 
-  familiers avec la programmation.
-role: "Chargé de cours (2026) · Chargé de TD (2023–2025)"
+  Introduction to the theory and empirical analysis of social and economic 
+  networks. Python/NetworkX course designed for students already familiar 
+  with programming.
+role: "Lecturer (2026) · Teaching Assistant (2023–2025)"
 institution: Bordeaux School of Economics, University of Bordeaux
 program: "M1 IREF-ERDS"
 year: "2023–2026"
-term: "Annuel"
-language: French
+term: "Second Semester"
+language: English
 course_id: social-networks-m1
 schedule:
   - week: 1
-    topic: Introduction — Omniprésence des réseaux sociaux
+    topic: Introduction — The Ubiquity of Social Networks
     description: >
-      Exemples de réseaux sociaux et économiques. Notations de base 
-      en théorie des graphes. Pourquoi étudier les réseaux ?
+      Examples of social and economic networks. Basic graph notation. 
+      Why study networks?
   - week: 2
-    topic: Petits mondes et réseaux aléatoires
+    topic: Small Worlds and Random Networks
     description: >
-      L'expérience de Milgram. Réseaux aléatoires de Poisson. 
-      Le phénomène des petits mondes.
+      The Milgram experiment. Poisson random networks. 
+      The small-world phenomenon.
   - week: 3
-    topic: Distributions des degrés
+    topic: Degree Distributions
     description: >
-      Distributions des degrés dans les réseaux réels. 
-      Attachement préférentiel et réseaux invariants d'échelle. 
-      Modèle de configuration. Le paradoxe de l'amitié.
+      Degree distributions in real-world networks. 
+      Preferential attachment and scale-free networks. 
+      The configuration model. The friendship paradox.
   - week: 4
-    topic: Clustering, communautés et homophilie
+    topic: Clustering, Communities and Homophily
     description: >
-      Coefficients de clustering. Détection de communautés. 
-      Petits mondes à la Watts & Strogatz. Recherche locale à la Kleinberg. 
-      Homophilie dans les réseaux.
+      Clustering coefficients. Community detection. 
+      Small worlds à la Watts & Strogatz. Local search à la Kleinberg. 
+      Homophily in networks.
   - week: 5
-    topic: Centralité et influence
+    topic: Centrality and Influence
     description: >
-      Mesures de centralité. Centralité de Bonacich, Katz, 
-      PageRank et centralité de prestige.
+      Centrality measures. Bonacich centrality, Katz centrality, 
+      PageRank, and prestige centrality.
   - week: 6
-    topic: "TD 1 — Prise en main de NetworkX"
+    topic: "Lab 1 — Getting Started with NetworkX"
     description: >
-      Import de données, création et manipulation de graphes avec 
-      Python et NetworkX. Calcul des premières statistiques.
+      Importing data, creating and manipulating graphs with 
+      Python and NetworkX. Computing first network statistics.
   - week: 7
-    topic: "TD 2 — Réseaux aléatoires, invariants d'échelle et distributions des degrés"
+    topic: "Lab 2 — Random Networks, Scale-Free Networks and Degree Distributions"
     description: >
-      Génération de réseaux aléatoires (Erdős–Rényi, Barabási–Albert). 
-      Analyse et visualisation des distributions de degrés.
+      Generating random networks (Erdős–Rényi, Barabási–Albert). 
+      Analysing and visualising degree distributions.
   - week: 8
-    topic: "TD 3 — Clustering et détection de communautés"
+    topic: "Lab 3 — Clustering and Community Detection"
     description: >
-      Calcul des coefficients de clustering. Algorithmes de 
-      détection de communautés (Louvain, Girvan-Newman).
+      Computing clustering coefficients. Community detection 
+      algorithms (Louvain, Girvan-Newman).
   - week: 9
-    topic: "TD 4 — Mesures de centralité"
+    topic: "Lab 4 — Centrality Measures"
     description: >
-      Calcul et comparaison des mesures de centralité. 
-      Visualisation et interprétation économique.
+      Computing and comparing centrality measures (degree, Bonacich, 
+      Katz, PageRank) in NetworkX. Applied to an interbank transaction 
+      network: identifying systemically important institutions and 
+      interpreting results economically.
 ---
 
-## Présentation du cours
+## Course Overview
 
-Ce cours introduit la théorie et l'analyse empirique des réseaux sociaux 
-et économiques, à la croisée de l'économie, de la sociologie, des 
-mathématiques et de l'informatique.
+This course introduces the theory and empirical analysis of social and 
+economic networks, at the crossroads of economics, sociology, mathematics, 
+and computer science. Designed by Prof. Nicolas Carayol, the course was entrusted to me fully as lecturer in 2026, after three years as teaching assistant.
 
-**Partie I — Théorie des réseaux**
-- Introduction et notations de base
-- Réseaux aléatoires et petits mondes
-- Distributions des degrés et attachement préférentiel
-- Clustering, communautés et homophilie
-- Centralité : Bonacich, Katz, PageRank
+**Part I — Network Theory**
+- Introduction and basic notation
+- Random networks and small worlds
+- Degree distributions and preferential attachment
+- Clustering, communities and homophily
+- Centrality: Bonacich, Katz, PageRank
 
-**Partie II — Analyse de données (Python / NetworkX)**
-- Prise en main de NetworkX
-- Réseaux aléatoires et invariants d'échelle
-- Détection algorithmique de communautés
-- Mesures de centralité et visualisation
+**Part II — Network Data (Python / NetworkX)**
+- Getting started with NetworkX
+- Random and scale-free networks
+- Algorithmic community detection
+- Centrality measures and visualisation
 
-## Pré-requis
+## Prerequisites
 
-Aucun pré-requis obligatoire en théorie des réseaux. Une familiarité avec 
-Python et l'analyse de données est supposée pour ce groupe.
+No prior knowledge of network theory required. Familiarity with 
+Python and data analysis is assumed for this group.
 
-## Évaluation
+## Assessment
 
-| Composante | Poids |
+| Component | Weight |
 |-----------|--------|
-| Travail appliqué individuel sur données | 40% |
-| Mini projet — traitement des données | 20% |
-| Mini projet — raisonnement | 20% |
-| Mini projet — présentation | 20% |
+| Individual applied data work | 40% |
+| Mini project — data treatment | 20% |
+| Mini project — reasoning | 20% |
+| Mini project — presentation | 20% |
 
-## Mon rôle
+## My Role
 
-En **2023, 2024 et 2025**, j'ai assuré les **travaux dirigés** (séances 
-pratiques et exercices), le professeur principal étant Pr. Nicolas Carayol. En **2026**, j'ai pris en charge l'**ensemble du 
-cours** en tant que chargée de cours principale.
+In **2023, 2024, and 2025** I was **teaching assistant**, running the 
+practical lab sessions and exercise classes, under the main lecturer
+Prof. Nicolas Carayol. In **2026** I took on the role of **main lecturer**, 
+delivering the full course independently.
 
-## Références bibliographiques
+## Key References
 
 1. Matthew O. Jackson (2019). *The Human Network*. Pantheon Books.
 2. Matthew O. Jackson (2008). *Social and Economic Networks*. Princeton University Press.
-3. David Easley & Jon Kleinberg (2010). *Networks, Crowds, and Markets*. Cambridge University Press. [PDF gratuit](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book.pdf)
+3. David Easley & Jon Kleinberg (2010). *Networks, Crowds, and Markets*. Cambridge University Press. [Free PDF](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book.pdf)
 4. Mark E.J. Newman (2010). *Networks: An Introduction*. Oxford University Press.
