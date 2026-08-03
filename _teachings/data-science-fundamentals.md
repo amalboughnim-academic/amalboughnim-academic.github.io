@@ -7,7 +7,7 @@ description: >
 role: Teaching Assistant (TD)
 institution: Bordeaux School of Economics, University of Bordeaux
 program: "L2 Économie-Gestion · LAS 2 Économie · LAS 2 Gestion"
-year: 2024
+year: 2023 & 2024
 term: "Full year"
 language: French
 course_id: microeconomics-3
