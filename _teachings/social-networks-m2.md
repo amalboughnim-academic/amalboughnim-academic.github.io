@@ -9,7 +9,7 @@ role: "Lecturer (2026) · Teaching Assistant (2023–2025)"
 institution: Bordeaux School of Economics, University of Bordeaux
 program: "M2 EIVS"
 year: "2023–2026"
-term: "Annual"
+term: "Second Semester"
 language: English
 course_id: social-networks-m2
 schedule:
