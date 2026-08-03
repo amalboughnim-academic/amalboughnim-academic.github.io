@@ -1,0 +1,21 @@
+/* ── Fonts ─────────────────────────────────────────────── */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Lora:ital,wght@0,400;0,600;1,400&display=swap');
+
+:root {
+  --font-sans: 'Inter', sans-serif;
+  --font-serif: 'Lora', serif;
+}
+
+body {
+  font-family: var(--font-sans);
+}
+
+/* ── Background ─────────────────────────────────────────── */
+body {
+  background-color: #FAFAF8; /* warm off-white, less harsh than pure white */
+}
+
+/* ── Headings ───────────────────────────────────────────── */
+h1, h2, h3 {
+  font-family: var(--font-serif);
+}
