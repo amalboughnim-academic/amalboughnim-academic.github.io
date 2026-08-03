@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: portrait_2_cloacked_sketch.png
+  image: portrait_2_cloaked_sketch.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Bordeaux School of Economics</p>
