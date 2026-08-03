@@ -2,7 +2,10 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Amal Boughnim, Postdoctoral Researcher at Bordeaux School of Economics
+subtitle: >
+  Postdoctoral Researcher · <a href="https://www.bse.u-bordeaux.fr/bxse/" target="_blank">Bordeaux School of Economics</a> · 
+  <a href="https://www.u-bordeaux.fr" target="_blank">University of Bordeaux</a> · 
+  <a href="https://restores.univ-rennes.fr/" target="_blank">RestoRES ANR</a>
 
 profile:
   align: right
@@ -14,7 +17,7 @@ profile:
     <p>16 Avenue Léon Duguit</p>
     <p>Pessac, 33600 France</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
