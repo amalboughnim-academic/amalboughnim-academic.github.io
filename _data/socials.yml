@@ -3,6 +3,9 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 cv_pdf: /assets/pdf/CV_academic_2026.pdf # path to your CV PDF file
 email: amalboughnim.academic@gmail.com # your email address
+work_url: https://www.bse.u-bordeaux.fr/membres/amal-boughnim/
+linkedin_username: https://www.linkedin.com/in/amal-boughnim-50a994125/ 
+bluesky_url: https://bsky.app/profile/lightsoutsher.bsky.social
 #inspirehep_id: 1010907 # Inspire HEP author ID
 #rss_icon: true # comment this line to hide the RSS icon
 #Institutional Webpage: https://www.bse.u-bordeaux.fr/membres/amal-boughnim/
