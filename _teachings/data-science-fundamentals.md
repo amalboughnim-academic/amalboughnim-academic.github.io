@@ -1,97 +1,101 @@
 ---
 layout: course
-title: Data Science Fundamentals
-description: This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.
-instructor: Prof. Data
+title: "Microeconomics 3: Market Structures"
+description: >
+  Analysis of competitive equilibrium, welfare theorems, and imperfect competition 
+  (monopoly and oligopoly). Second-year undergraduate course at the University of Bordeaux.
+role: Teaching Assistant (TD)
+institution: Bordeaux School of Economics, University of Bordeaux
+program: "L2 Économie-Gestion · LAS 2 Économie · LAS 2 Gestion"
 year: 2024
-term: Spring
-location: Science Building, Room 202
-time: Mondays and Wednesdays, 2:00-3:30 PM
-course_id: data-science-fundamentals
+term: "Full year"
+language: French
+course_id: microeconomics-3
 schedule:
   - week: 1
-    date: Feb 5
-    topic: Introduction to Data Science
-    description: Overview of the data science workflow and key concepts.
-    materials:
-      - name: Syllabus
-        url: /assets/pdf/example_pdf.pdf
-      - name: Slides
-        url: /assets/pdf/example_pdf.pdf
-
+    topic: "Review: Partial Competitive Equilibrium"
+    description: >
+      Short-run and long-run equilibrium under perfect competition. 
+      Review of consumer and producer behaviour.
   - week: 2
-    date: Feb 12
-    topic: Data Collection and APIs
-    description: Methods for collecting data through APIs, web scraping, and databases.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 1
-        url: /assets/pdf/example_pdf.pdf
-
+    topic: General Equilibrium and Welfare
+    description: >
+      From partial to general equilibrium. The two welfare theorems 
+      and the conditions under which market equilibrium is efficient.
   - week: 3
-    date: Feb 19
-    topic: Data Cleaning and Preprocessing
-    description: Techniques for handling missing values, outliers, and data transformation.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Coding Lab
-        url: https://github.com/
-
+    topic: Monopoly — Classical Analysis
+    description: >
+      Profit maximisation under monopoly, deadweight loss, 
+      and comparison with the competitive benchmark.
   - week: 4
-    date: Feb 26
-    topic: Exploratory Data Analysis
-    description: Descriptive statistics, visualization, and pattern discovery.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 2
-        url: /assets/pdf/example_pdf.pdf
-
+    topic: "Monopoly — Natural Monopoly and Regulation"
+    description: >
+      Natural monopoly, regulatory approaches (marginal cost pricing, 
+      Ramsey pricing), and public ownership.
   - week: 5
-    date: Mar 4
-    topic: Statistical Analysis
-    description: Hypothesis testing, confidence intervals, and statistical inference.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Review Materials
-        url: /assets/pdf/example_pdf.pdf
-
+    topic: Price Discrimination
+    description: >
+      First, second, and third-degree price discrimination. 
+      Welfare effects and real-world examples.
   - week: 6
-    date: Mar 11
-    topic: Data Visualization
-    description: Principles and tools for effective data visualization.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 3
-        url: /assets/pdf/example_pdf.pdf
+    topic: "Oligopoly — Cartels and Collusion"
+    description: >
+      Joint profit maximisation, cartel stability, 
+      and competition policy.
+  - week: 7
+    topic: "Oligopoly — Cournot Competition"
+    description: >
+      Quantity competition, Nash equilibrium in the Cournot model, 
+      and comparison with monopoly and perfect competition.
+  - week: 8
+    topic: "Oligopoly — Stackelberg Competition"
+    description: >
+      Sequential quantity competition, first-mover advantage, 
+      and strategic commitment.
+  - week: 9
+    topic: "Oligopoly — Bertrand Competition (if time permits)"
+    description: >
+      Price competition, the Bertrand paradox, 
+      and product differentiation as a resolution.
 ---
 
 ## Course Overview
 
-This course provides a comprehensive introduction to data science principles and practices. Students will:
+This course studies the relationship between market structure, firm strategy, 
+and market efficiency. It builds on the competitive equilibrium framework 
+introduced in Microeconomics 1 and 2 (L1) and extends it to imperfectly 
+competitive markets.
 
-- Learn the end-to-end data science workflow
-- Gain practical experience with data manipulation tools
-- Develop skills in data visualization and communication
-- Apply statistical methods to derive insights from data
+**Part I — Competitive Equilibrium and Welfare**
+- Partial equilibrium review (short and long run)
+- General equilibrium under perfect competition
+- The two welfare theorems: efficiency and equilibrium
+
+**Part II — Monopoly**
+- Classical monopoly and deadweight loss
+- Natural monopoly and regulation
+- Price discrimination (1st, 2nd, and 3rd degree)
+
+**Part III — Oligopoly**
+- Cartels and collusion
+- Quantity competition: Cournot and Stackelberg models
+- Price competition: Bertrand model
 
 ## Prerequisites
 
-- Basic programming knowledge (preferably in Python)
-- Introductory statistics
-- Comfort with basic algebra
+- Consumer behaviour (utility maximisation, demand)
+- Producer behaviour (cost minimisation, supply)
+- Partial equilibrium under perfect competition (Microeconomics 1 & 2)
 
-## Textbooks
+## Assessment
 
-- "Python for Data Analysis" by Wes McKinney
-- "Data Science from Scratch" by Joel Grus
+| Component | Weight |
+|-----------|--------|
+| Continuous assessment (mini-tests, common exam, oral participation) | 60% |
+| Final exam (exercises, problems, reflective questions) | 40% |
 
-## Grading
+## My Role
 
-- Assignments: 50%
-- Project: 40%
-- Participation: 10%
+I teach the **TD sessions** (13.5 hours) — practical problem-solving classes 
+where students work through exercises on each topic covered in the lectures. 
+The lectures (38.5 hours CM) are taught by the course professor.
