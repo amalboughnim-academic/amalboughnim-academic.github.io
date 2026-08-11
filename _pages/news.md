@@ -18,8 +18,7 @@ nav_order: 6
   </span>
   {% endfor %}
 </div>
-<h3>{{ item.title }}</h3>
-    {{ item.content }}
+
   </li>
   {% endfor %}
 </ul>
