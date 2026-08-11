@@ -1,4 +1,5 @@
 ---
+title: workshop concluded
 layout: post
 date: 2026-07-16 08:59:00-0400
 inline: true
