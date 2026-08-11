@@ -19,3 +19,17 @@ body {
 h1, h2, h3 {
   font-family: var(--font-serif);
 }
+
+.tag-row {
+  margin-bottom: 6px;
+}
+
+.tag-badge {
+  display: inline-block;
+  padding: 3px 10px;
+  border-radius: 4px;
+  font-size: 12px;
+  font-family: Palatino, 'Palatino Linotype', serif;
+  color: #FFFFFF;
+  margin-right: 6px;
+}
