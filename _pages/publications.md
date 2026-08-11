@@ -11,32 +11,30 @@ nav_order: 2
 
 ## Work in progress
 
-## Work in progress
-
-**The Career-Long Gender Productivity Gap: Evidence on Selection, Funding Access, and Multitasking in French Academia**
+<span style="display: block; font-weight: 500; font-size: 1.1rem; color: #788BB0; margin-bottom: 4px;">The Career-Long Gender Productivity Gap: Evidence on Selection, Funding Access, and Multitasking in French Academia</span>
 *with Nicolas Carayol and Pascale Roux*
 PI: Pr. Pascale Roux
 Funding: Région Nouvelle Aquitaine Grant (AAPR2020-2019-8020710)
 
 In this paper, we document a U-shaped gender productivity gap over the career cycle: already present at age 30, it widens to 31% by age 42, then partially narrows without ever closing. Men's productivity rises faster and plateaus higher before declining after age 50, while women's productivity shows a late-career resurgence — with life sciences as a notable exception, where the gap keeps widening. Initial selection accounts for up to half of the annual productivity differences, though it does not alter the overall U-shaped profile. A parenthood analysis at a large French university reveals no gender-differentiated penalty, but ANR grant data (2005–2018) show women are 15% less likely to apply for funding, a gap 2.5 times larger in life sciences. Using higher education and research employment data, we further reveal a substantial gender promotion gap among professors, with women facing a higher performance threshold for advancement. A triple-difference approach shows that environments combining teaching and research disproportionately reduce women's output.
 
-**Breaking the Cluster: How Collective Funding Reshapes Gender Gaps in Collaboration Networks**
+<span style="display: block; font-weight: 500; font-size: 1.1rem; color: #788BB0; margin-bottom: 4px;">Breaking the Cluster: How Collective Funding Reshapes Gender Gaps in Collaboration Networks</span>
 *with Nicolas Carayol and Pascale Roux*
 PI: Pr. Pascale Roux
 Funding: Région Nouvelle Aquitaine Grant (AAPR2020-2019-8020710)
 
 Using the LabEx funding program as a quasi-experiment, this paper shows that cluster funding disproportionately expands women's collaboration networks, mainly through new and diverse ties formed outside their existing cluster, while men's gains stay concentrated within it, and positively impacts women's productivity and future grant success, particularly amongst previously top highly productive women. This pattern is more consistent with women facing constrained access to collaborative opportunities than with differing preferences for collaboration.
 
-**A Portrait of Gender in French Mathematics: Representation, Specialization, and Productivity**
-*Single-authored*
+<span style="display: block; font-weight: 500; font-size: 1.1rem; color: #788BB0; margin-bottom: 4px;">A Portrait of Gender in French Mathematics: Representation, Specialization, and Productivity</span>
+*single-authored work*
 
 Analyzing research orientation among 3,950 French mathematicians, this paper finds that the gender gap is one of volume rather than quality: women publish 17% fewer papers but achieve comparable citations and journal quality. Women occupy a systematically different position in the mathematical landscape, with greater concentration in higher-output applied subfields masking a within-subfield gap that rises to 25% at comparable positioning.
 
-**Agendas of Necessity? Gender, Specialization, and Interdisciplinarity in Mathematics**
+<span style="display: block; font-weight: 500; font-size: 1.1rem; color: #788BB0; margin-bottom: 4px;">Agendas of Necessity? Gender, Specialization, and Interdisciplinarity in Mathematics</span>
+*project under construction*
 
-Project in progress. 
 
-**Undisclosed Interests: Prevalence, Determinants, and Consequences of Conflict-of-Interest Disclosure in Biomedical Research**
+<span style="display: block; font-weight: 500; font-size: 1.1rem; color: #788BB0; margin-bottom: 4px;">Undisclosed Interests: Prevalence, Determinants, and Consequences of Conflict-of-Interest Disclosure in Biomedical Research</span>
 *with Nicolas Carayol*
 PI: Dr. Florian Naudet
 Funding: ANR ResTores grant (ANR-23-CE36-0006)
