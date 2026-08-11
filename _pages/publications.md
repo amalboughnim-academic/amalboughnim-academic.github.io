@@ -11,8 +11,6 @@ nav_order: 2
 
 ## Work in progress
 
-## Work in progress
-
 **The Career-Long Gender Productivity Gap: Evidence on Selection, Funding Access, and Multitasking in French Academia**
 *with Nicolas Carayol and Pascale Roux*
 PI: Pr. Pascale Roux
