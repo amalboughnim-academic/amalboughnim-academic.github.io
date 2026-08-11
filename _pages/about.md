@@ -8,9 +8,9 @@ subtitle: >
   <a href="https://restores.univ-rennes.fr/" target="_blank">RestoRES ANR</a>
 
 profile:
-  align: right
+  align: left
   image: portrait_2_cloaked_sketch.png
-  image_circular: true # crops the image to make it circular
+  image_circular: true
   more_info: >
     <p>Bordeaux School of Economics</p>
     <p>H2- Office 311</p>
