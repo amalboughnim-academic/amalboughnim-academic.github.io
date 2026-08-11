@@ -13,6 +13,7 @@ nav_order: 2
 
 <span style="display: block; font-weight: 500; font-size: 1.1rem; color: #788BB0; margin-bottom: 4px;">The Career-Long Gender Productivity Gap: Evidence on Selection, Funding Access, and Multitasking in French Academia</span>
 *with Nicolas Carayol and Pascale Roux*
+
 PI: Pr. Pascale Roux
 Funding: Région Nouvelle Aquitaine Grant (AAPR2020-2019-8020710)
 
@@ -20,6 +21,7 @@ In this paper, we document a U-shaped gender productivity gap over the career cy
 
 <span style="display: block; font-weight: 500; font-size: 1.1rem; color: #788BB0; margin-bottom: 4px;">Breaking the Cluster: How Collective Funding Reshapes Gender Gaps in Collaboration Networks</span>
 *with Nicolas Carayol and Pascale Roux*
+
 PI: Pr. Pascale Roux
 Funding: Région Nouvelle Aquitaine Grant (AAPR2020-2019-8020710)
 
@@ -36,6 +38,7 @@ Analyzing research orientation among 3,950 French mathematicians, this paper fin
 
 <span style="display: block; font-weight: 500; font-size: 1.1rem; color: #788BB0; margin-bottom: 4px;">Undisclosed Interests: Prevalence, Determinants, and Consequences of Conflict-of-Interest Disclosure in Biomedical Research</span>
 *with Nicolas Carayol*
+
 PI: Dr. Florian Naudet
 Funding: ANR ResTores grant (ANR-23-CE36-0006)
 
