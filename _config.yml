@@ -190,13 +190,13 @@ collections:
   books:
     output: true
   news:
-    defaults:
-      layout: post
     output: true
+    permalink: /news/:title/
   projects:
     output: true
   teachings:
     output: true
+
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -696,3 +696,4 @@ jsonresume:
   - languages
   - interests
   - references
+
