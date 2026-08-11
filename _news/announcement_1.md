@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-28-05 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I have successfully defended my PhD, titled: Gender Disparities in Academic Careers: Productivity, Collaboration Networks, and Research Agendas, under the supervising of Pr. Pascale Roux, and Pr. Nicolas Carayol, at BSE. 
