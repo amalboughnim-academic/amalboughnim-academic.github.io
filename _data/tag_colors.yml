@@ -1,8 +1,8 @@
-"PhD Defense": "#788BB0"          # Primary Blue
-"Announcement": "#78A7B0"   # Light Teal
+"PhD Defense":  "#78A7B0"   # Light Teal
+"Announcement":  "#8178B0"     # Accent Purple 
 "Grant Secured": "#B07892"        # Soft Mauve
-"New Position": "#8178B0"     # Accent Purple
+"New Position": "#788BB0"          # Primary Blue
 "New Collaboration": "#87CED7"        # Teal
-"Conference": "#4F6158"    # Dark Sage
-"Teaching": "#BCB4CA"             # Lavender
+"Conference": "#BCB4CA"      # Lavender
+"Teaching": "#4F6158"        # Dark Sage     
 "New Publication": "#D85A30"      # Coral (from a complementary accent, since your core palette is now fully assigned)
