@@ -9,7 +9,14 @@ permalink: /news/
   {% for item in sorted_news %}
   <li>
     <span class="news-date">{{ item.date | date: "%B %-d, %Y" }}</span>
-    <h3>{{ item.title }}</h3>
+    <div class="tag-row">
+  {% for tag in item.tags %}
+  <span class="tag-badge" style="background-color: {{ site.data.tag_colors[tag] | default: '#B5A99A' }};">
+    {{ tag }}
+  </span>
+  {% endfor %}
+</div>
+<h3>{{ item.title }}</h3>
     {{ item.content }}
   </li>
   {% endfor %}
