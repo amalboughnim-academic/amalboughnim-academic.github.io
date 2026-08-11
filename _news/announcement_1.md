@@ -1,4 +1,5 @@
 ---
+title : phd defense
 layout: post
 date: 2026-05-28 15:59:00-0400
 inline: true
