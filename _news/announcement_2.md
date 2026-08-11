@@ -1,11 +1,10 @@
 ---
 layout: post
-date: date: 2026-04-01 08:59:00-0400
+date: 2026-03-31 15:59:00-0400
 inline: true
 related_posts: false
-tags: ["New Position"]
+tags: ["New position"]
 ---
-
-I'm delighted to announce that I've secured a postdoctoral research position at the Bordeaux School of Economics, where I'll be working on an interdisciplinary project on research integrity in biomedical research, led by Dr. Florian Naudet. The project brings together a multidisciplinary team — economists, physicians, methodologists, biostatisticians, and data engineers — spanning France, Canada, and Ireland, across several workpackages.
+I'm delighted to announce that I've secured a 1-year postdoctoral research contract at the Bordeaux School of Economics, where I'll be working on an interdisciplinary project on research integrity in biomedical research, led by Dr. Florian Naudet. The project brings together a multidisciplinary team — economists, physicians, methodologists, biostatisticians, and data engineers — spanning France, Canada, and Ireland, across several workpackages.
 
 Within this project, I'll be working with my workpackage leader, Pr. Nicolas Carayol, on conflict-of-interest disclosure in biomedical publications. Our aim is threefold: to map the current state of disclosure practices, identify what determines whether ties are disclosed, and assess the possible impact of conflict-of-interest ties on researchers' scientific output.
