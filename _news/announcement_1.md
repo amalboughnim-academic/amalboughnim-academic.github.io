@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have successfully defended my PhD, titled: Gender Disparities in Academic Careers: Productivity, Collaboration Networks, and Research Agendas, under the supervising of Pr. Pascale Roux, and Pr. Nicolas Carayol, at BSE. 
+I have successfully defended my PhD, titled: "Gender Disparities in Academic Careers: Productivity, Collaboration Networks, and Research Agendas", under the supervising of Pr. Pascale Roux, and Pr. Nicolas Carayol, at BSE. 
