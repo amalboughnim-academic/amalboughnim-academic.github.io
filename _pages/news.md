@@ -5,7 +5,7 @@ permalink: /news/
 nav: true
 nav_order: 6
 ---
-
+<div style="font-family: 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;">
 <ul class="news-list">
   {% assign sorted_news = site.news | sort: "date" | reverse %}
   {% for item in sorted_news %}
@@ -22,3 +22,4 @@ nav_order: 6
   </li>
   {% endfor %}
 </ul>
+</div>
