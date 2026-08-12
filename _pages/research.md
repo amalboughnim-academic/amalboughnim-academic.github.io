@@ -11,7 +11,7 @@ nav_order: 2
 
 ## Work in progress
 
-<span style="display: block; font-weight: 500; font-size: 1.1rem; color: #788BB0; margin-bottom: 4px;">The Career-Long Gender Productivity Gap: Evidence on Selection, Funding Access, and Multitasking in French Academia</span>
+<span style="display: block; font-weight: 500; font-size: 1.1rem; color: #788BB0; margin-bottom: 4px;">Gender differences in academic productivity across the career cycle: Evidence from French academia</span>
 *(with Nicolas Carayol and Pascale Roux)*
 
 PI: Pr. Pascale Roux
@@ -23,7 +23,7 @@ One interesting exception is life sciences where the gap never decreases.
 Using additional observational data, we investigate the role of various contributing factors, such as selection bias, childbirth, teaching loads, promotion incentives biases, team leadership, and funding, to understand the underlying mechanisms driving these trends. 
 We discuss which science policies may robustly mitigate the mechanisms that are shown to increase gender gaps. 
 
-<span style="display: block; font-weight: 500; font-size: 1.1rem; color: #788BB0; margin-bottom: 4px;">Breaking the Cluster: How Collective Funding Reshapes Gender Gaps in Collaboration Networks</span>
+<span style="display: block; font-weight: 500; font-size: 1.1rem; color: #788BB0; margin-bottom: 4px;">Breaking the Cluster: How Collective Funding Reshapes Gender Gaps in Coauthorship Networks</span>
 *(with Nicolas Carayol and Pascale Roux)*
 
 PI: Pr. Pascale Roux
