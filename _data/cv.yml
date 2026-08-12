@@ -107,15 +107,14 @@ cv:
 
       - name: Econometric Methods
         icon: fa-solid fa-chart-line
-        keywords: "Causal inference (DiD staggered treatment designs, regression discontinuity), panel data econometrics, social network analysis"
+        keywords: "Causal inference (Staggered DiD/Event study designs, regression discontinuity, sample matching methods), panel data econometrics"
 
       - name: Data Science & NLP Methods
         icon: fa-solid fa-flask
-        keywords: "LLMs for research automation, NLP for bibliometric and grant-text analysis, ML for classification and prediction, web scraping, large-scale data management (MongoDB)"
+        keywords: "LLMs for research automation, NLP for bibliometric and grant-text analysis, ML for classification and prediction, web scraping, social network analysis, large-scale data management (MongoDB)"
 
     Languages:
     
-
       - name: Arabic
         summary: "Native speaker"
         
