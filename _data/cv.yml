@@ -5,7 +5,6 @@ cv:
   image: ""
   summary: Post-doctoral researcher in economics of science and innovation at the Bordeaux School of Economics, working on gender disparities in academic careers and conflict of interest disclosure in biomedical research.
 
-
   address:
     street: "16 Avenue Léon Duguit"
     city: Pessac
@@ -28,7 +27,6 @@ cv:
           - "Defense date: May 27th, 2026"
           - "Reviewers: Pr. Hanna Hottenrott, Pr. Reinhilde Veugelers"
           - "Examiners: Pr. José De Sousa, Pr. Emeric Henry"
-          
 
       - institution: University of Bordeaux, Faculty of Economic Sciences and Management
         location: Bordeaux, France
@@ -99,31 +97,24 @@ cv:
         highlights:
           - "Doctoral contract funded by the Région Nouvelle-Aquitaine (AAPR2020-2019-8020710)"
 
-
- Skills:
+    Skills:
       - name: Computer Languages
         icon: fa-solid fa-code
         keywords: "Python, R, C++, Ado-Stata, LaTeX, MongoDB Query Language (MQL)"
-
       - name: Econometric Methods
         icon: fa-solid fa-chart-line
         keywords: "Causal inference (Staggered DiD/Event study designs, regression discontinuity, sample matching methods), panel data econometrics"
-
       - name: Data Science & NLP Methods
         icon: fa-solid fa-flask
         keywords: "LLMs for research automation, NLP for bibliometric and grant-text analysis, ML for classification and prediction, web scraping, social network analysis, large-scale data management (MongoDB)"
 
     Languages:
-    
       - name: Arabic
         summary: "Native speaker"
-        
       - name: French
-        summary: "Poficient"
-
+        summary: "Proficient"
       - name: English
         summary: "Proficient (TOEIC Reading and Listening: 985/990)"
-
       - name: German
         summary: "Beginner, training"
 
@@ -137,12 +128,10 @@ cv:
         date: ""
         issuer: ""
         icon: fa-solid fa-certificate
-
       - name: AMF (Financial Markets Authority Certification)
         date: ""
         issuer: ""
         icon: fa-solid fa-certificate
-
       - name: TCF (French Language Proficiency Certification)
         date: ""
         issuer: ""
