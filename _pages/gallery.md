@@ -3,12 +3,12 @@ layout: page
 title: Gallery
 permalink: /gallery/
 description: A growing collection of your cool projects.
-nav: true
+nav: false
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---
-
+<div style="font-family: 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;">
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
@@ -62,4 +62,5 @@ horizontal: false
   </div>
   {% endif %}
 {% endif %}
+</div>
 </div>
