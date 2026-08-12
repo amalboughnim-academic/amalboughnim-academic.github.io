@@ -2,19 +2,16 @@
 layout: about
 title: About
 permalink: /
-subtitle: >
-  Postdoctoral Researcher · <a href="https://www.bse.u-bordeaux.fr/bxse/" target="_blank">Bordeaux School of Economics</a> · 
-  <a href="https://www.u-bordeaux.fr" target="_blank">University of Bordeaux</a> · 
-  <a href="https://restores.univ-rennes.fr/" target="_blank">RestoRES ANR</a>
 profile:
   align: left
   image: portrait_2_cloaked_sketch.png
   image_circular: true
   more_info: >
-    <p>Bordeaux School of Economics</p>
+    <p>Postdoctoral Researcher · <a href="https://www.bse.u-bordeaux.fr/bxse/" target="_blank">Bordeaux School of Economics</a> 
     <p>H2- Office 311</p>
     <p>16 Avenue Léon Duguit</p>
     <p>Pessac, 33600 France</p>
+    <p>Part of the <a href="https://restores.univ-rennes.fr/" target="_blank">ANR RestoRES</a> project</p>
 selected_papers: false
 social: true
 announcements:
