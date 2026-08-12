@@ -10,3 +10,5 @@ description: This page summarizes my academic background, professional experienc
 toc:
   sidebar: left
 ---
+<div style="font-family: 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;">
+</div>
