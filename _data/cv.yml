@@ -2,19 +2,14 @@ cv:
   name: Amal Boughnim
   label: Post-doctoral Researcher, Bordeaux School of Economics (BSE)
   email: amal.boughnim@u-bordeaux.fr
-  location: Bordeaux, France
   image: ""
   summary: Post-doctoral researcher in economics of science and innovation at the Bordeaux School of Economics, working on gender disparities in academic careers and conflict of interest disclosure in biomedical research.
 
-  social_networks:
-    - network: LinkedIn
-      username: amal-boughnim
 
   address:
-    street: ""
-    city: Bordeaux
-    region: Nouvelle-Aquitaine
-    postalCode: "33000"
+    street: "16 Avenue Léon Duguit"
+    city: Pessac
+    postalCode: "33600"
     countryCode: FR
 
   sections:
@@ -31,6 +26,9 @@ cv:
         highlights:
           - "Supervisors: Pr. Nicolas Carayol (BSE) & Pr. Pascale Roux (BSE)"
           - "Defense date: May 27th, 2026"
+          - "Reviewers: Pr. Hanna Hottenrott, Pr. Reinhilde Veugelers"
+          - "Examiners: Pr. José De Sousa, Pr. Emeric Henry"
+          
 
       - institution: University of Bordeaux, Faculty of Economic Sciences and Management
         location: Bordeaux, France
@@ -101,397 +99,34 @@ cv:
         highlights:
           - "Doctoral contract funded by the Région Nouvelle-Aquitaine (AAPR2020-2019-8020710)"
 
-    Publications:
-      - title: "Gender differences in academic productivity across the career cycle: Evidence from French academia"
-        authors:
-          - Amal Boughnim
-          - Nicolas Carayol
-          - Pascale Roux
-        publisher: ""
-        releaseDate: ""
-        url: ""
-        summary: "In preparation"
 
-      - title: "Breaking the Cluster: How Collective Funding Reshapes Gender Gaps in Coauthorship Networks"
-        authors:
-          - Amal Boughnim
-          - Nicolas Carayol
-          - Pascale Roux
-        publisher: ""
-        releaseDate: ""
-        url: ""
-        summary: "In preparation"
-
-      - title: "Riding the Storm: Unexpected Gendered Impacts of COVID-19 on Scientific Productivity"
-        authors:
-          - Amal Boughnim
-          - Nicolas Carayol
-          - Pascale Roux
-        publisher: ""
-        releaseDate: ""
-        url: ""
-        summary: "In preparation"
-
-      - title: "A Portrait of Gender in French Mathematics: Representation, Specialization, and Productivity"
-        authors:
-          - Amal Boughnim
-        publisher: ""
-        releaseDate: ""
-        url: ""
-        summary: "In preparation"
-
-      - title: "Undisclosed Interests: Prevalence, Determinants, and Consequences of Conflict-of-Interest Disclosure in Biomedical Research"
-        authors:
-          - Amal Boughnim
-          - Nicolas Carayol
-        publisher: ""
-        releaseDate: ""
-        url: ""
-        summary: "In preparation"
-
-    Presentations:
-      - company: University of Bordeaux, France
-        position: Organizer
-        location: ""
-        start_date: 2026-07-14
-        end_date: 2026-07-16
-        summary: "3rd Edition of the Workshop on Economics of Science & Innovation"
-
-      - company: Bordeaux School of Economics, France
-        position: Presenter
-        location: ""
-        start_date: 2025-08-25
-        end_date: 2025-08-28
-        summary: "40th Meeting of the European Economic Association"
-
-      - company: Côte d'Azur University, France
-        position: Presenter
-        location: ""
-        start_date: 2025-06-30
-        end_date: 2025-07-04
-        summary: "13th Edition of the KID Summer School"
-
-      - company: Bordeaux School of Economics, France
-        position: Attendee
-        location: ""
-        start_date: 2025-06-17
-        end_date: 2025-06-20
-        summary: "Regis Summer School"
-
-      - company: Copenhagen Business School, Denmark
-        position: Presenter
-        location: ""
-        start_date: 2025-06-16
-        end_date: 2025-06-18
-        summary: "International Conference on the Science of Science and Innovation"
-
-      - company: Institut Montpelliérain Alexander Grothendieck, France
-        position: Invited Speaker
-        location: ""
-        start_date: 2025-04-29
-        end_date: 2025-04-29
-        summary: "External Seminar"
-
-      - company: Université Paris Dauphine-PSL, France
-        position: Attendee
-        location: ""
-        start_date: 2025-02-01
-        end_date: 2025-02-01
-        summary: "2nd Journée Scientifique Internationale de la Chaire Femmes et Science"
-
-      - company: KU Leuven Campus Opera, Belgium
-        position: Presenter
-        location: ""
-        start_date: 2024-09-11
-        end_date: 2024-09-13
-        summary: "9th Summer School on Data and Algorithms for ST&I Studies"
-
-      - company: Collegio Carlo Alberto, Italy
-        position: Invited Speaker
-        location: ""
-        start_date: 2024-11-05
-        end_date: 2024-11-05
-        summary: "External Seminar"
-
-      - company: Côte d'Azur University, France
-        position: "Presenter. Best Paper Award"
-        location: ""
-        start_date: 2024-07-01
-        end_date: 2024-07-05
-        summary: "12th Edition of the KID Summer School"
-
-      - company: University of Bordeaux, France
-        position: Organizer & Presenter
-        location: ""
-        start_date: 2024-05-30
-        end_date: 2024-05-31
-        summary: "2nd Edition of the Workshop on Economics of Science & Innovation"
-
-      - company: Collegio Carlo Alberto, Italy
-        position: Presenter
-        location: ""
-        start_date: 2024-04-18
-        end_date: 2024-04-19
-        summary: "17th Edition of WOEPSR"
-
-      - company: KU Leuven, Belgium
-        position: Presenter
-        location: ""
-        start_date: 2024-04-02
-        end_date: 2024-04-02
-        summary: "Brown Bag PhD Seminar"
-
-      - company: Université Paris Dauphine-PSL, France
-        position: Attendee
-        location: ""
-        start_date: 2024-02-01
-        end_date: 2024-02-01
-        summary: "1st Journée Scientifique Internationale de la Chaire Femmes et Science"
-
-      - company: Online reading group
-        position: Presenter
-        location: ""
-        start_date: 2024-01-12
-        end_date: 2024-01-12
-        summary: "REGIS seminar"
-
-      - company: Sciences Po Paris, France
-        position: Presenter
-        location: ""
-        start_date: 2023-06-14
-        end_date: 2023-06-16
-        summary: "71st Annual Congress of the French Economic Association's (AFSE)"
-
-      - company: Nova Business School, Portugal
-        position: Presenter & Session Chair
-        location: ""
-        start_date: 2023-06-10
-        end_date: 2023-06-12
-        summary: "2023 Edition of the DRUID Conference"
-
-      - company: University of Strasbourg, France
-        position: Presenter & Discussant
-        location: ""
-        start_date: 2023-06-08
-        end_date: 2023-06-09
-        summary: "39th Days of Applied Microeconomics Conference (JMA)"
-
-      - company: University of Bordeaux, France
-        position: Organizer & Presenter
-        location: ""
-        start_date: 2023-05-23
-        end_date: 2023-05-24
-        summary: "1st Edition of the Workshop on Economics of Science & Innovation"
-
-      - company: Max Planck Institute, Germany
-        position: Attendee
-        location: ""
-        start_date: 2023-04-13
-        end_date: 2023-04-14
-        summary: "16th Edition of WOEPSR"
-
-      - company: University of Bordeaux, France
-        position: Presenter
-        location: ""
-        start_date: 2023-03-03
-        end_date: 2023-03-03
-        summary: "Gender Equity Board Meeting"
-
-      - company: KU Leuven, Belgium
-        position: Attendee
-        location: ""
-        start_date: 2022-04-07
-        end_date: 2022-04-08
-        summary: "15th Edition of WOEPSR"
-
-    Trainings:
-      - company: Côte d'Azur University
-        position: Summer School
-        location: Nice, France
-        start_date: 2025-07-01
-        end_date: 2025-07-04
-        summary: "Knowledge Dynamics, Industry Evolution, and Economic Development"
-
-      - company: Bordeaux University
-        position: Summer School
-        location: Bordeaux, France
-        start_date: 2025-06-17
-        end_date: 2025-06-20
-        summary: "REading Group in Innovation Studies -- REGIS"
-
-      - company: Côte d'Azur University
-        position: Summer School
-        location: Nice, France
-        start_date: 2024-07-01
-        end_date: 2024-07-05
-        summary: "Knowledge Dynamics, Industry Evolution, and Economic Development"
-
-      - company: Institute for Progress
-        position: Ph.D. Course
-        location: Online
-        start_date: 2022-11-01
-        end_date: 2022-12-13
-        summary: "Economics of Ideas, Science, and Innovation"
-
-      - company: University of Minho
-        position: Summer School
-        location: Braga, Portugal
-        start_date: 2022-06-27
-        end_date: 2022-06-30
-        summary: "Econometrics of Big Data"
-
-      - company: Bordeaux University
-        position: "Graduate Course, Pr. Quentin Stoeffler"
-        location: Bordeaux, France
-        start_date: 2024-01-15
-        end_date: 2024-02-26
-        summary: "Advanced Quasi-Experiments"
-
-      - company: URFIST
-        position: Ph.D. Course
-        location: Bordeaux, France
-        start_date: 2022-11-24
-        end_date: 2022-11-25
-        summary: "Scientific Python -- Advanced"
-
-      - company: Mongo University
-        position: Ph.D. Course
-        location: Online
-        start_date: 2022-05-05
-        end_date: 2022-05-11
-        summary: "MongoDB Basics"
-
-      - company: "Bordeaux University, Pr. Dalila Chenaf-Nicet"
-        position: Ph.D. Course
-        location: Bordeaux, France
-        start_date: 2022-05-19
-        end_date: 2022-05-19
-        summary: "Panel Data Econometrics on Stata"
-
-      - company: Bordeaux University
-        position: Career Workshop
-        location: Bordeaux, France
-        start_date: 2023-06-05
-        end_date: 2023-06-05
-        summary: "Opportunities for PhDs in International Organizations"
-
-      - company: Bordeaux University
-        position: Ph.D. Workshop
-        location: Bordeaux, France
-        start_date: 2023-01-12
-        end_date: 2023-01-12
-        summary: "Sex and Gender in Scientific Excellence"
-
-      - company: Bordeaux University
-        position: Ph.D. Workshop
-        location: Bordeaux, France
-        start_date: 2023-01-05
-        end_date: 2023-01-05
-        summary: "The Landscape of Education and Research in France"
-
-      - company: "Bordeaux University & Online"
-        position: Ph.D. Workshops
-        location: ""
-        start_date: 2022-04-01
-        end_date: 2023-01-01
-        summary: "Softskill Workshops"
-        highlights:
-          - "Rethinking Productivity, April 13, 2022"
-          - "Managing Conflict, May 18, 2022"
-          - "Motivation & Procrastination, June 9, 2022"
-          - "Perfectionism & Imposter Syndrome, September 28, 2022"
-          - "Well-being in Research, November 16, 2022"
-          - "Public Speaking in a Professional Context, January 17, 2023"
-
-      - company: Online
-        position: MOOC Ph.D. Courses
-        location: ""
-        start_date: 2022-02-01
-        end_date: 2022-05-01
-        summary: "Research Ethics and Scientific Integrity"
-        highlights:
-          - "Ethics of Research, February 1 -- April 5, 2022, Lyon University"
-          - "Scientific Integrity in Research Jobs, May 2 -- 6, 2022, Bordeaux University"
-
-    Teaching:
-      - company: Graduate course
-        position: "Instructor (chargée de TD, 2023-2026)"
-        location: ""
-        start_date: 2023
-        end_date: 2026
-        summary: "Social Network Analysis and Network Economics (20hrs)"
-        highlights:
-          - "Lecturer: Nicolas Carayol (-2025), Amal Boughnim (2026)"
-
-      - company: Graduate course
-        position: "Instructor (chargée de TD, 2023-2026)"
-        location: ""
-        start_date: 2023
-        end_date: 2026
-        summary: "Network Analysis (20hrs)"
-        highlights:
-          - "Lecturer: Nicolas Carayol (-2025), Amal Boughnim (2026)"
-
-      - company: Undergraduate course
-        position: "Instructor (chargée de TD)"
-        location: ""
-        start_date: 2023
-        end_date: 2024
-        summary: "Microeconomics 3: Market Structures (60hrs)"
-        highlights:
-          - "Lecturer: Pascale Roux"
-
-    Supervision:
-      - company: Master in Risk Engineering & Data Science
-        position: "Graduate student (M1) -- Barkire Douramane"
-        location: ""
-        start_date: 2025-07-01
-        end_date: 2025-08-01
-        summary: ""
-
-      - company: Bachelor in Mathematics and Computer Science for Social Sciences
-        position: "Undergraduate student (L3) -- Baptiste Lagrue"
-        location: ""
-        start_date: 2025-05-01
-        end_date: 2025-06-01
-        summary: ""
-
-      - company: Master in Artificial Intelligence
-        position: "Graduate student (M2) -- Hassan Alipour"
-        location: ""
-        start_date: 2025-05-01
-        end_date: 2025-08-01
-        summary: ""
-
-      - company: Master in Risk Engineering & Data Science
-        position: "Graduate student (M1) -- Johanne Atallah"
-        location: ""
-        start_date: 2025-05-01
-        end_date: 2025-07-01
-        summary: ""
-
-      - company: Master in Risk Engineering & Data Science
-        position: "Graduate students (M1) -- Alexandra Millot; Karl Ulrich Odjo"
-        location: ""
-        start_date: 2024-05-01
-        end_date: 2024-07-01
-        summary: "Co-supervised by: Pr. Nicolas Carayol, Pr. Pascale Roux"
-
-    Skills:
+ Skills:
       - name: Computer Languages
-        level: ""
         icon: fa-solid fa-code
         keywords: "Python, R, C++, Ado-Stata, LaTeX, MongoDB Query Language (MQL)"
 
+      - name: Econometric Methods
+        icon: fa-solid fa-chart-line
+        keywords: "Causal inference (DiD staggered treatment designs, regression discontinuity), panel data econometrics, social network analysis"
+
+      - name: Data Science & NLP Methods
+        icon: fa-solid fa-flask
+        keywords: "LLMs for research automation, NLP for bibliometric and grant-text analysis, ML for classification and prediction, web scraping, large-scale data management (MongoDB)"
+
     Languages:
-      - name: French
-        summary: "Native speaker"
+    
 
       - name: Arabic
         summary: "Native speaker"
+        
+      - name: French
+        summary: "Poficient"
 
       - name: English
         summary: "Proficient (TOEIC Reading and Listening: 985/990)"
+
+      - name: German
+        summary: "Beginner, training"
 
     Interests:
       - name: Extracurricular
