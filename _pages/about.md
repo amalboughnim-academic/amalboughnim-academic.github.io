@@ -22,11 +22,10 @@ latest_posts:
   scrollable: true
   limit: 3
 ---
-<div style="font-family: 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif; line-height: 1.75; padding-left: 5rem; padding-top: 3.5rem; margin-bottom: 3rem;">
-<p style="margin-bottom: 1.25rem;">I am a postdoctoral researcher at the Bordeaux School of Economics, working on ethics and conflict of interest disclosure in biomedical research as part of the <a href="https://restores.univ-rennes.fr/" target="_blank">ANR RestoRES</a> project. I combine public disclosures, administrative and bibliometric data, and machine learning methods to study the prevalence and determinants of conflict of interest reporting.</p>
-<p>More broadly, my research examines gender disparities in academic careers — how they emerge and persist across scientific productivity, collaboration networks, and research agendas. My PhD work and related papers explore these questions using large-scale data on French academia and, in a related strand, on mathematics research specifically, where women remain a minority.</p>
+<div style="font-family: 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif; line-height: 1.75; text-align: center; padding: 3.5rem 2rem 4rem 8rem; margin-bottom: 5rem;">
+  <p style="margin-bottom: 1.25rem;">I am a postdoctoral researcher at the Bordeaux School of Economics, working on ethics and conflict of interest disclosure in biomedical research as part of the <a href="https://restores.univ-rennes.fr/" target="_blank">ANR RestoRES</a> project. I combine public disclosures, administrative and bibliometric data, and machine learning methods to study the prevalence and determinants of conflict of interest reporting.</p>
+  <p>More broadly, my research examines gender disparities in academic careers — how they emerge and persist across scientific productivity, collaboration networks, and research agendas. My PhD work and related papers explore these questions using large-scale data on French academia and, in a related strand, on mathematics research specifically, where women remain a minority.</p>
 </div>
-
 
 <script type="application/ld+json">
 {
