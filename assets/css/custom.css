@@ -53,15 +53,6 @@ p {
   display: inline;
   margin-bottom: 6px;
 }
-.tag-badge {
-  display: inline-block;
-  padding: 3px 10px;
-  border-radius: 4px;
-  font-size: 12px;
-  font-family: var(--font-main);
-  color: #FFFFFF;
-  margin-right: 8px;
-}
 
 /* ── News list ────────────────────────────────────────────── */
 .news-list li {
