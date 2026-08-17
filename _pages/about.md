@@ -24,7 +24,7 @@ latest_posts:
 ---
 <style>
 body {
-  background-image: url('/assets/img/about-bg.jpg');
+  background-image: url('/assets/img/asa-akmelia-U15ZuWxjxYc-unsplash.jpg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
