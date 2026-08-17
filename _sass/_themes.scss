@@ -1,17 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Display:ital,wght@0,400;0,600;0,700&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap');
+
 :root {
-  --global-theme-color: #77B0C7;
-  --global-bg-color: #E0B6D6;
+  --global-theme-color: #788BB0;
+  --global-bg-color: #D9C9C2;
   --global-text-color: #3E3A34;
 }
 
 * {
-  font-family: 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;
+  font-family: 'Cormorant Garamond', 'Palatino Linotype', Palatino, serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Noto Serif Display', 'Palatino Linotype', Palatino, serif;
   letter-spacing: 0.01em;
 }
 
