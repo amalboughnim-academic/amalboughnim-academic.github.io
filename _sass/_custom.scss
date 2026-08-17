@@ -1,11 +1,12 @@
+body {
+  background-color: red !important;
+}
+
 :root {
   --font-main: 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;
 }
 
-body {
-  font-family: var(--font-main);
-  background-color: #F7F3EC;
-}
+
 
 h1,
 h2,
