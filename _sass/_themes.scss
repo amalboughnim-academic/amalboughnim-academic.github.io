@@ -1,5 +1,11 @@
 :root {
   --global-theme-color: #788BB0;
-  --global-bg-color: #F7F3EC;
-  --global-font-color: #3E3A34;
+  --global-bg-color: #E3D6BE;
+  --global-text-color: #3E3A34;
+}
+
+body,
+h1, h2, h3, h4, h5, h6,
+p, a, span, li, td, th {
+  font-family: 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;
 }
