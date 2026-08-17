@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Display:ital,wght@0,400;0,600;0,700&display=swap');
+
 
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap');
 
@@ -6,6 +6,20 @@
   --global-theme-color: #788BB0;
   --global-bg-color: #FFFAF7;
   --global-text-color: #3E3A34;
+  --divider-color: #B5A99A;
+}
+
+html[data-theme=dark] {
+  --global-theme-color: #A7B4CE;
+  --global-bg-color: #2A2B27;
+  --global-text-color: #E8E4DA;
+  --divider-color: #4A4B45;
+}
+
+hr, .section-divider {
+  border: none;
+  border-top: 1px solid var(--divider-color);
+  margin: 2.5rem 0;
 }
 
 * {
@@ -26,17 +40,12 @@ html {
   scroll-behavior: smooth;
 }
 
-/* Section dividers */
-hr, .section-divider {
-  border: none;
-  border-top: 1px solid #DDD1B8;
-  margin: 2.5rem 0;
-}
+
 
 /* Active nav item accent */
 .nav-link.active,
 .navbar .nav-item.active .nav-link {
-  border-bottom: 2px solid #788BB0;
+  border-bottom: 2px solid var(--global-theme-color);
   padding-bottom: 2px;
 }
 
