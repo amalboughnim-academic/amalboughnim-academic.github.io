@@ -1,1 +1,81 @@
+:root {
+  --font-main: 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;
+}
+
+body {
+  font-family: var(--font-main);
+  background-color: #F7F3EC;
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--font-main);
+}
+
+/* Page spacing */
+.container,
+main {
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-top: 2rem;
+}
+
+@media (min-width: 992px) {
+  .container,
+  main {
+    padding-left: 4rem;
+    padding-right: 4rem;
+    padding-top: 3rem;
+  }
+}
+
+/* Profile */
+.profile.float-left {
+  margin-right: 2.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.profile img {
+  margin-bottom: 1rem;
+}
+
+/* Paragraphs */
+p {
+  line-height: 1.75;
+  margin-bottom: 1.25rem;
+}
+
+/* Sections */
+.post,
+.news,
+section {
+  margin-top: 2.5rem;
+}
+
+/* Tags */
+.tag-row {
+  display: inline;
+  margin-bottom: 6px;
+}
+
+.tag-badge {
+  display: inline-block;
+  padding: 3px 10px;
+  border-radius: 4px;
+  font-size: 12px;
+  font-family: var(--font-main);
+  color: #FFFFFF;
+  margin-right: 8px;
+}
+
+/* News */
+.news-list li {
+  margin-bottom: 1.5rem;
+}
+
+.news-date {
+  font-weight: 500;
+  margin-right: 8px;
+}
 
