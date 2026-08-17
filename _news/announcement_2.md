@@ -4,7 +4,7 @@ layout: post
 date: 2026-03-31 15:59:00-0400
 inline: true
 related_posts: false
-tags: ["New position"]
+
 ---
 I'm delighted to announce that I've secured a 1-year postdoctoral research contract at the Bordeaux School of Economics, where I'll be working on an interdisciplinary project on research integrity in biomedical research, led by Dr. Florian Naudet. The project brings together a multidisciplinary team — economists, physicians, methodologists, biostatisticians, and data engineers — spanning France, Canada, and Ireland, across several workpackages.
 
