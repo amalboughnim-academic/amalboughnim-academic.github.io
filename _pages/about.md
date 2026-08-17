@@ -24,7 +24,7 @@ latest_posts:
 ---
 <style>
 body {
-  background-image: url('/assets/img/asa-akmelia-U15ZuWxjxYc-unsplash.jpg');
+  background-image: linear-gradient(rgba(239, 231, 216, 0.6), rgba(239, 231, 216, 0.6)), url('/assets/img/asa-akmelia-U15ZuWxjxYc-unsplash.jpg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
