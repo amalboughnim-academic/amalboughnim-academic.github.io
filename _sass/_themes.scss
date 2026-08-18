@@ -63,3 +63,13 @@ p {
   box-shadow: 0 4px 14px rgba(62, 58, 52, 0.12);
   transform: translateY(-2px);
 }
+
+/* CV entry separators */
+.cv .card .list-group-item {
+  border-bottom: 1px solid var(--divider-color);
+  padding-bottom: 1rem;
+  margin-bottom: 0.5rem;
+}
+.cv .card .list-group-item:last-child {
+  border-bottom: none;
+}
