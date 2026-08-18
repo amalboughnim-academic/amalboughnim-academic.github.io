@@ -65,18 +65,10 @@ cv:
           - "Principal Investigator: Florian Naudet"
 
       - company: Bordeaux School of Economics (BSE), University of Bordeaux
-        position: Research Engineer
-        location: Bordeaux, France
-        start_date: 2025-10-01
-        end_date: 2026-04-01
-        highlights:
-          - "Held concurrently with the final phase of the Ph.D."
-
-      - company: Bordeaux School of Economics (BSE), University of Bordeaux
         position: "ATER (Attaché Temporaire d'Enseignement et de Recherche)"
         location: Bordeaux, France
         start_date: 2024-09-01
-        end_date: 2025-09-01
+        end_date: 2025-10-01
         highlights:
           - "Held concurrently with the fourth year of the Ph.D."
 
@@ -125,16 +117,10 @@ cv:
 
     Certificates:
       - name: TOEIC Reading and Listening (985/990)
-        date: ""
-        issuer: ""
         icon: fa-solid fa-certificate
       - name: AMF (Financial Markets Authority Certification)
-        date: ""
-        issuer: ""
         icon: fa-solid fa-certificate
       - name: TCF (French Language Proficiency Certification)
-        date: ""
-        issuer: ""
         icon: fa-solid fa-certificate
 
     References:
