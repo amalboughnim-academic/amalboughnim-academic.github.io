@@ -7,7 +7,8 @@ profile:
   image: portrait_2_cloaked_sketch.png
   image_circular: true
   more_info: >
-    <p>Postdoctoral Researcher · <a href="https://www.bse.u-bordeaux.fr/bxse/" target="_blank">Bordeaux School of Economics</a></p>
+    <p>Postdoctoral Researcher</p>
+    <p><a href="https://www.bse.u-bordeaux.fr/bxse/" target="_blank">Bordeaux School of Economics</a></p>
     <p>H2- Office 311</p>
     <p>16 Avenue Léon Duguit</p>
     <p>Pessac, 33600 France</p>
@@ -16,7 +17,7 @@ social: true
 announcements:
   enabled: true
   scrollable: true
-  limit: 3
+  limit: 4
 latest_posts:
   enabled: false
   scrollable: true
