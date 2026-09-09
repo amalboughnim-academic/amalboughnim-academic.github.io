@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap');
 
 html {
-  font-size: clamp(16px, 1vw + 12px, 19px);
+  font-size: clamp(14px, 1vw + 11px, 17px);
   scroll-behavior: smooth;
 }
 
@@ -69,4 +69,9 @@ p {
 }
 .cv .card .list-group-item:last-child {
   border-bottom: none;
+}
+
+.badge.danger-color-dark {
+  background-color: #C7D0E0 !important;
+  color: #3E3A34 !important;
 }
