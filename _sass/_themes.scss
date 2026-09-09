@@ -9,7 +9,7 @@ html {
   --global-theme-color: #788BB0;
   --global-bg-color: #EFF2EF;
   --global-text-color: #3E3A34;
-  --divider-color: #B5A99A;
+  --divider-color: #5C5F5A;
   --max-content-width: clamp(700px, 85vw, 1400px);
 }
 html[data-theme=dark] {
@@ -20,12 +20,19 @@ html[data-theme=dark] {
 }
 .profile {
   border-radius: 12px;
-  padding: 4rem;
+  padding: 1.5rem;
 }
+.profile img {
+  width: 100%;
+  max-width: 250px;
+}
+
 .profile .more-info {
   margin-top: 1rem;
-  font-size: 0.85rem;
+  font-size: 0.92rem;
 }
+
+
 hr, .section-divider {
   border: none;
   border-top: 1px solid var(--divider-color);
