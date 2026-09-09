@@ -18,10 +18,18 @@ html[data-theme=dark] {
   --global-text-color: #E8E4DA;
   --divider-color: #4A4B45;
 }
-.profile {
+
+.post {
+  background-color: #D0E3DC;
   border-radius: 12px;
-  padding: 1.5rem;
+  padding: 2rem;
 }
+
+.profile {
+  border-radius: 0;
+  padding: 0;
+}
+
 .profile img {
   width: 100%;
   max-width: 250px;
