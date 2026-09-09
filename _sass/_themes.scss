@@ -1,4 +1,3 @@
-
 html {
   font-size: clamp(13px, 0.85vw + 11px, 16px);
   scroll-behavior: smooth;
@@ -18,7 +17,6 @@ html[data-theme=dark] {
   --global-bg-color: #2A2B27;
   --global-text-color: #E8E4DA;
   --divider-color: #4A4B45;
-  --max-content-width: clamp(700px, 85vw, 1400px);
 }
 .profile {
   border-radius: 12px;
@@ -28,8 +26,6 @@ html[data-theme=dark] {
   margin-top: 1rem;
   font-size: 0.85rem;
 }
-
-
 hr, .section-divider {
   border: none;
   border-top: 1px solid var(--divider-color);
@@ -64,7 +60,7 @@ p {
 .cv .card .list-group-item:last-child {
   border-bottom: none;
 }
-.badge.danger-color-dark {
+.cv .card .list-group-item .badge.danger-color-dark {
   background-color: #C7D0E0 !important;
   color: #3E3A34 !important;
 }
