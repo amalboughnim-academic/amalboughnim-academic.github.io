@@ -34,7 +34,7 @@ nav_order: 2
   </summary>
   <div style="padding-top: 1.5rem;">
 
-    <span style="font-weight: 500; font-size: 1rem; color: #788BB0;">Gender differences in academic productivity across the career cycle: Evidence from French academia</span><span style="font-style: italic; font-size: 0.85rem;">, with Nicolas Carayol and Pascale Roux</span>
+    <span style="font-weight: 500; font-size: 1rem; color: #788BB0;"> Gender differences in academic productivity across the career cycle: Evidence from French academia</span><span style="font-style: italic; font-size: 0.85rem;">, with Nicolas Carayol and Pascale Roux</span>
 
     <span style="display: block; font-size: 0.85rem; color: #5C554C; margin-top: 4px;">Funding: Région Nouvelle Aquitaine Grant (AAPR2020-2019-8020710). PI: Pr. Pascale Roux</span>
 
@@ -52,7 +52,7 @@ nav_order: 2
 
     <span style="font-weight: 500; font-size: 1rem; color: #B07892;">A Portrait of Gender in French Mathematics: Representation, Specialization, and Productivity</span><span style="font-style: italic; font-size: 0.85rem;">, single-authored work</span>
 
-    <p style="font-size: 0.85rem; margin-top: 1rem;"><span style="font-style: normal;">Summary:</span> <span style="font-style: italic;">Analyzing research orientation among 3,950 French mathematicians, this paper finds that the gender gap is one of volume rather than quality: women publish 17% fewer papers but achieve comparable citations and journal quality. Women occupy a systematically different position in the mathematical landscape, with greater concentration in higher-output applied subfields masking a within-subfield gap that rises to 25% at comparable positioning.</span></p>
+    <p style="font-size: 0.85rem; margin-top: 1rem;"><span style="font-style: normal;">Summary:</span> <span style="font-style: italic;" This paper examines the gender representation and productivity gap among French university mathematicians using a rich panel of 4,545 academics (approximately 20% women) observed over 2000-2022, comprising roughly 68,700 person-year observations. Rather than treating mathematics as a single, homogeneous discipline, I show that gender representation and the gender productivity gap follow distinct, sometimes opposing patterns across mathematical subfields. Representation is lowest in fundamental and physics-adjacent areas (as low as 12%) and highest in applied and computational fields (up to 24-25%). The productivity gap follows the reverse pattern: it is statistically indistinguishable from zero in fundamental/pure mathematics, but large and highly significant in applied fields. Mathematical physics stands out as a notable exception, combining both low female representation and a significant productivity gap, a double disadvantage not observed elsewhere in the discipline. I further document a persistent gender gap in career advancement: conditional on tenure entry, women are markedly less likely to be promoted to full professor, and among those who are promoted, women take approximately 1.5 years longer to do so, a gap that survives extensive controls for birth cohort, career timing, subfield, and early-career productivity. These results suggest that the gender gap in mathematics is neither uniform across the discipline nor fully explained by productivity differences. </span></p>
 
     <hr style="border: none; border-top: 0.5px solid #E6DFD2; margin: 2.5rem 0;">
 
