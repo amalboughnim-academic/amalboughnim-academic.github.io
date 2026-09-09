@@ -124,6 +124,19 @@ cv:
         icon: fa-solid fa-certificate
 
     References:
-      - name: ""
+      - name: "Pr. Pascale Roux"
         icon: fa-solid fa-user
-        reference: "Provided upon request."
+        reference: "Professor of Economics, Bordeaux School of Economics (BSE), University of Bordeaux. pascale.roux@u-bordeaux.fr"
+        url: https://www.bse.u-bordeaux.fr/membres/pascale-roux/
+      - name: "Pr. Nicolas Carayol"
+        icon: fa-solid fa-user
+        reference: "Professor of Economics, Bordeaux School of Economics (BSE), University of Bordeaux. Director of the Observatoire des Sciences et Techniques (OST), Hcéres. nicolas.carayol@u-bordeaux.fr"
+        url: https://www.bse.u-bordeaux.fr/en/uncategorized/nicolas-carayol/
+      - name: "Dr. Laurent Bergé"
+        icon: fa-solid fa-user
+        reference: "Associate Professor of Economics, Bordeaux School of Economics (BSE), University of Bordeaux. laurent.berge@u-bordeaux.fr"
+        url: https://www.bse.u-bordeaux.fr/membres/laurent-berge/
+      - name: "Pr. Emeric Henry"
+        icon: fa-solid fa-user
+        reference: "Professor of Economics, Head of Department, Sciences Po. emeric.henry@sciencespo.fr"
+        url: https://www.sciencespo.fr/department-economics/directory/henry-emeric/
