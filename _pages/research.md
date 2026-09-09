@@ -24,7 +24,7 @@ nav_order: 2
   }
 </style>
 
-<div style="font-family: 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif; font-size: 0.9rem; line-height: 1.7; color: #444441;">
+<div style="font-family: 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif; font-size: 0.9rem; line-height: 1.7;">
 
 <span style="display: block; font-weight: 500; font-size: 1.5rem; margin-bottom: 1.5rem;">Work in Progress</span>
 
