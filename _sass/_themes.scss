@@ -1,14 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap');
 
+html {
+  font-size: clamp(16px, 1vw + 12px, 19px);
+  scroll-behavior: smooth;
+}
 
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap');
+* {
+  font-family: 'Lora', 'Palatino Linotype', Palatino, serif;
+}
 
 :root {
   --global-theme-color: #788BB0;
-  --global-bg-color: #D6E0D6;
+  --global-bg-color: #EFF2EF;
   --global-text-color: #3E3A34;
   --divider-color: #B5A99A;
 }
-
 html[data-theme=dark] {
   --global-theme-color: #A7B4CE;
   --global-bg-color: #2A2B27;
@@ -22,40 +28,24 @@ hr, .section-divider {
   margin: 2.5rem 0;
 }
 
-* {
-  font-family: 'Cormorant Garamond', 'Palatino Linotype', Palatino, serif;
-}
-
 h1, h2, h3, h4, h5, h6 {
   letter-spacing: 0.01em;
 }
 
-/* Smooth link and hover transitions */
 a {
   transition: color 0.2s ease;
 }
 
-/* Smooth scrolling for anchor/TOC links */
-html {
-  scroll-behavior: smooth;
-}
-
-
-
-/* Active nav item accent */
 .nav-link.active,
 .navbar .nav-item.active .nav-link {
   border-bottom: 2px solid var(--global-theme-color);
   padding-bottom: 2px;
 }
 
-/* Readable paragraph width */
 p {
-
   line-height: 1.75;
 }
 
-/* Subtle card hover lift */
 .card, .publications ol.bibliography li {
   transition: box-shadow 0.25s ease, transform 0.25s ease;
 }
@@ -64,7 +54,6 @@ p {
   transform: translateY(-2px);
 }
 
-/* CV entry separators */
 .cv .card .list-group-item {
   border-bottom: 1px solid var(--divider-color);
   padding-bottom: 1rem;
