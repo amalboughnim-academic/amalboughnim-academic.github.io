@@ -69,7 +69,7 @@ nav_order: 2
 
     <span style="font-weight: 500; font-size: 1rem; color: #87CED7;">Undisclosed Interests: Prevalence, Determinants, and Consequences of Conflict-of-Interest Disclosure in Biomedical Research</span><span style="font-style: italic; font-size: 0.85rem;">, with Nicolas Carayol</span>
 
-    <span style="display: block; font-size: 0.85rem; color: #5C554C; margin-top: 4px;">Funding: ANR ResTores grant (ANR-23-CE36-0006). PI: Dr. Florian Naudet</span>
+    <span style="display: block; font-size: 0.85rem; color: #5C554C; margin-top: 4px;">Funding: ANR ResTores grant (ANR-23-CE36-0006). PI: Dr. Florian Naudet. Workpackage Leader: Nicolas Carayol </span>
 
     <p style="font-size: 0.85rem; margin-top: 1rem;"><span style="font-style: normal;">Summary:</span> <span style="font-style: italic;">In this paper, we leverage a rich dataset combining public disclosures of companies with financial ties to academics, administrative data, firm data, and bibliometric data to assess the prevalence and determinants of conflict of interest disclosure, using state-of-the-art machine learning and AI techniques.</span></p>
 
