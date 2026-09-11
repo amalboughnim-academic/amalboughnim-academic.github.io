@@ -132,11 +132,12 @@ cv:
         icon: fa-solid fa-user
         reference: "Professor of Economics, Bordeaux School of Economics (BSE), University of Bordeaux. Director of the Observatoire des Sciences et Techniques (OST), Hcéres. nicolas.carayol@u-bordeaux.fr"
         url: https://www.bse.u-bordeaux.fr/en/uncategorized/nicolas-carayol/
-      - name: "Dr. Laurent Bergé"
-        icon: fa-solid fa-user
-        reference: "Associate Professor of Economics, Bordeaux School of Economics (BSE), University of Bordeaux. laurent.berge@u-bordeaux.fr"
-        url: https://www.bse.u-bordeaux.fr/membres/laurent-berge/
       - name: "Pr. Emeric Henry"
         icon: fa-solid fa-user
         reference: "Professor of Economics, Head of Department, Sciences Po. emeric.henry@sciencespo.fr"
         url: https://www.sciencespo.fr/department-economics/directory/henry-emeric/
+      - name: "Dr. Laurent Bergé"
+        icon: fa-solid fa-user
+        reference: "Associate Professor of Economics, Bordeaux School of Economics (BSE), University of Bordeaux. laurent.berge@u-bordeaux.fr"
+        url: https://www.bse.u-bordeaux.fr/membres/laurent-berge/
+
