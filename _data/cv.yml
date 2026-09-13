@@ -123,14 +123,14 @@ cv:
       - name: TCF (French Language Proficiency Certification)
         icon: fa-solid fa-certificate
 
-    References:
+   References:
       - name: "Pr. Reinhilde Veugelers"
         icon: fa-solid fa-user
         reference: "Full Professor, Department of Management, Strategy and Innovation, KU Leuven. Senior Fellow, Bruegel and Peterson Institute for International Economics (PIIE). reinhilde.veugelers@kuleuven.be"
         url: https://feb.kuleuven.be/reinhilde.veugelers
       - name: "Pr. Emeric Henry"
         icon: fa-solid fa-user
-        reference: "Professor of Economics, Head of Department, Sciences Po. emeric.henry@sciencespo.fr"
+        reference: "Professor of Economics, Head of Department, Sciences Po. Research Fellow, CEPR. emeric.henry@sciencespo.fr"
         url: https://www.sciencespo.fr/department-economics/directory/henry-emeric/
       - name: "Pr. Nicolas Carayol"
         icon: fa-solid fa-user
@@ -144,4 +144,3 @@ cv:
         icon: fa-solid fa-user
         reference: "Associate Professor of Economics, Bordeaux School of Economics (BSE), University of Bordeaux. laurent.berge@u-bordeaux.fr"
         url: https://www.bse.u-bordeaux.fr/membres/laurent-berge/
-
