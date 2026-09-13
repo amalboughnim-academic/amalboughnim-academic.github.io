@@ -82,3 +82,85 @@ nav_order: 2
 <div class="publications">
 {% bibliography %}
 </div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "CreativeWork",
+      "name": "Gender differences in academic productivity across the career cycle: Evidence from French academia",
+      "creativeWorkStatus": "InProgress",
+      "author": [
+        { "@type": "Person", "name": "Amal Boughnim" },
+        { "@type": "Person", "name": "Nicolas Carayol" },
+        { "@type": "Person", "name": "Pascale Roux" }
+      ],
+      "about": ["Gender Disparities in Academia", "Academic Productivity", "Career Cycle Economics"],
+      "funder": {
+        "@type": "Organization",
+        "name": "Région Nouvelle Aquitaine",
+        "identifier": "AAPR2020-2019-8020710"
+      },
+      "abstract": "We investigate gender productivity gaps in academic careers using a unique dataset of over 93 thousand professors and researchers from French higher education and research institutions. This dataset spans nearly 60 years and includes detailed information allowing us to observe age, gender, occupations, career spans, and potential name variations on top of detailed publication outputs. The gender gap increases in the first part of the career, reaching a maximum of around 42% of age, before slightly decreasing until the end of the career.",
+      "url": "https://amalboughnim-academic.github.io/research/"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Breaking the Cluster: How Collective Funding Reshapes Gender Gaps in Coauthorship Networks",
+      "creativeWorkStatus": "InProgress",
+      "author": [
+        { "@type": "Person", "name": "Amal Boughnim" },
+        { "@type": "Person", "name": "Nicolas Carayol" },
+        { "@type": "Person", "name": "Pascale Roux" }
+      ],
+      "about": ["Gender Disparities in Academia", "Collaboration Networks", "Research Funding"],
+      "funder": {
+        "@type": "Organization",
+        "name": "Région Nouvelle Aquitaine",
+        "identifier": "AAPR2020-2019-8020710"
+      },
+      "abstract": "Women's coauthorship networks are smaller, more locally clustered, and less likely to bridge disconnected parts of the scientific community than men's. We exploit the staggered rollout of the Laboratoires d'Excellence (LabEx) program to estimate the effect of collectively relaxing resource constraints on gendered network formation, finding that LabEx funding expands coauthorship networks substantially more for women than men.",
+      "url": "https://amalboughnim-academic.github.io/research/"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "A Portrait of Gender in French Mathematics: Representation, Specialization, and Productivity",
+      "creativeWorkStatus": "InProgress",
+      "author": [
+        { "@type": "Person", "name": "Amal Boughnim" }
+      ],
+      "about": ["Gender Disparities in Academia", "Mathematics", "Academic Productivity"],
+      "abstract": "This paper examines the gender representation and productivity gap among French university mathematicians using a rich panel of 4,545 academics observed over 2000-2022. Gender representation and the gender productivity gap follow distinct, sometimes opposing patterns across mathematical subfields.",
+      "url": "https://amalboughnim-academic.github.io/research/"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Agendas of Necessity? Gender, Specialization, and Interdisciplinarity in Mathematics",
+      "creativeWorkStatus": "InProgress",
+      "author": [
+        { "@type": "Person", "name": "Amal Boughnim" }
+      ],
+      "about": ["Gender Disparities in Academia", "Mathematics", "Interdisciplinarity"],
+      "url": "https://amalboughnim-academic.github.io/research/"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Undisclosed Interests: Prevalence, Determinants, and Consequences of Conflict-of-Interest Disclosure in Biomedical Research",
+      "creativeWorkStatus": "InProgress",
+      "author": [
+        { "@type": "Person", "name": "Amal Boughnim" },
+        { "@type": "Person", "name": "Nicolas Carayol" }
+      ],
+      "about": ["Conflict of Interest Disclosure", "Biomedical Research", "Research Integrity"],
+      "funder": {
+        "@type": "Organization",
+        "name": "ANR ResTores",
+        "identifier": "ANR-23-CE36-0006"
+      },
+      "abstract": "We leverage a rich dataset combining public disclosures of companies with financial ties to academics, administrative data, firm data, and bibliometric data to assess the prevalence and determinants of conflict of interest disclosure, using state-of-the-art machine learning and AI techniques.",
+      "url": "https://amalboughnim-academic.github.io/research/"
+    }
+  ]
+}
+</script>
