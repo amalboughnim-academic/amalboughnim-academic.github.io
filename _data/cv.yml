@@ -123,7 +123,7 @@ cv:
       - name: TCF (French Language Proficiency Certification)
         icon: fa-solid fa-certificate
 
-   References:
+    References:
       - name: "Pr. Reinhilde Veugelers"
         icon: fa-solid fa-user
         reference: "Full Professor, Department of Management, Strategy and Innovation, KU Leuven.<br>Senior Fellow, Bruegel and Peterson Institute for International Economics (PIIE). reinhilde.veugelers@kuleuven.be"
