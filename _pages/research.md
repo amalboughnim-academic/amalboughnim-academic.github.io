@@ -164,3 +164,21 @@ nav_order: 2
   ]
 }
 </script>
+
+
+<details style="margin-bottom: 1rem;">
+  <summary style="font-size: 1.2rem; font-weight: 600; padding: 0.75rem 0; border-bottom: 0.5px solid #E6DFD2; color: var(--global-theme-color);">
+    <span class="chevron">&#9656;</span>Academic Service: Workshop Organization
+  </summary>
+  <div style="padding-top: 1.5rem;">
+
+    <span style="font-weight: 500; font-size: 1rem;">Workshop on the Economics of Science and Innovation (EoSI)</span><span style="font-style: italic; font-size: 0.85rem;">, co-organized with fellow PhD colleagues at the Bordeaux School of Economics</span>
+
+    <p style="font-size: 0.85rem; margin-top: 1rem;">Since 2023, I have co-organized the annual Workshop on the Economics of Science and Innovation (EoSI), bringing together PhD students and young researchers to present and discuss work in the economics of science, innovation, and knowledge production. The workshop began as a small pilot edition in 2023 with 4 invited researchers, before growing into a fully competitive workshop: both the 2024 and 2026 editions welcomed around 15 igh-quality presenters from various European research institutions.</p>
+
+    <p style="font-size: 0.85rem; margin-top: 1rem;">The workshop has featured renowned keynote speakers in the economics of science and innovation, including <a href="https://research.manchester.ac.uk/en/persons/cornelia.lawson" target="_blank">Cornelia Lawson</a> (University of Manchester), <a href="https://univ-cotedazur.fr/michele-pezzoni" target="_blank">Michele Pezzoni</a> (Université Côte d'Azur), <a href="https://scholar.harvard.edu/iganguli/home" target="_blank">Ina Ganguli</a> (University of Massachusetts Amherst), and <a href="https://sotaroshibayama.weebly.com/" target="_blank">Sotaro Shibayama</a> (University of Tokyo).</p>
+
+    <p style="font-size: 0.85rem; margin-top: 1rem;">More information, including past and upcoming editions, is available on the <a href="https://sites.google.com/view/bse-eosi-workshop/home" target="_blank">workshop website</a>.</p>
+
+  </div>
+</details>
