@@ -13,10 +13,10 @@ cv:
 
   sections:
     Education:
-      - institution: Bordeaux School of Economics (BSE), University of Bordeaux
+      - institution: Economics
         location: Bordeaux, France
         url: https://www.bse.u-bordeaux.fr/
-        area: Economics
+        area: "Bordeaux School of Economics (BSE), University of Bordeaux"
         studyType: PhD
         start_date: 2022
         end_date: 2026
@@ -28,25 +28,25 @@ cv:
           - "Reviewers: Pr. Hanna Hottenrott, Pr. Reinhilde Veugelers"
           - "Examiners: Pr. José De Sousa, Pr. Emeric Henry"
 
-      - institution: University of Bordeaux, Faculty of Economic Sciences and Management
+      - institution: Economic Risk Engineering and Data Science
         location: Bordeaux, France
-        area: Economic Risk Engineering and Data Science
+        area: "University of Bordeaux, Faculty of Economic Sciences and Management"
         studyType: Master, with honors
         start_date: 2020
         end_date: 2022
         highlights: []
 
-      - institution: University of Bordeaux, Faculty of Sciences and Technologies, Department of Mathematics
+      - institution: Algebra, Geometry and Number Theory
         location: Bordeaux, France
-        area: Algebra, Geometry and Number Theory
+        area: "University of Bordeaux, Faculty of Sciences and Technologies, Department of Mathematics"
         studyType: Master, with honors
         start_date: 2018
         end_date: 2020
         highlights: []
 
-      - institution: University of Bordeaux, Faculty of Sciences and Technologies, Department of Mathematics
+      - institution: Fundamental Mathematics
         location: Bordeaux, France
-        area: Fundamental Mathematics
+        area: "University of Bordeaux, Faculty of Sciences and Technologies, Department of Mathematics"
         studyType: Bachelor, with honors
         start_date: 2016
         end_date: 2018
