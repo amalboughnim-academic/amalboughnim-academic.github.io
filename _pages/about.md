@@ -37,10 +37,17 @@ latest_posts:
     "@type": "Organization",
     "name": "Bordeaux School of Economics"
   },
+  "knowsAbout": [
+    "Economics of Science and Innovation",
+    "Gender Disparities in Academia",
+    "Conflict of Interest Disclosure",
+    "Bibliometrics",
+    "Academic Collaboration Networks", 
+  "Gender Differences in Mathematical Research", 
+  ],
   "url": "https://amalboughnim-academic.github.io/",
   "sameAs": [
     "https://www.linkedin.com/in/amal-boughnim-50a994125",
-    "https://scholar.google.com/citations?...",
     "https://www.bse.u-bordeaux.fr/membres/amal-boughnim/"
   ]
 }
