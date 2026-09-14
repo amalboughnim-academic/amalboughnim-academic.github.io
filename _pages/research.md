@@ -26,7 +26,7 @@ nav_order: 2
 
 <div style="font-family: 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif; font-size: 0.9rem; line-height: 1.7;">
 
-<span style="display: block; font-weight: 500; font-size: 1.5rem; margin-bottom: 1.5rem;">Work in Progress</span>
+
 
 <details style="margin-bottom: 1rem;">
   <summary style="font-size: 1.2rem; font-weight: 600; padding: 0.75rem 0; border-bottom: 0.5px solid #E6DFD2;">
@@ -168,7 +168,7 @@ nav_order: 2
 
 <details style="margin-bottom: 1rem;">
   <summary style="font-size: 1.2rem; font-weight: 600; padding: 0.75rem 0; border-bottom: 0.5px solid #E6DFD2; color: var(--global-theme-color);">
-    <span class="chevron">&#9656;</span>Academic Service: Workshop Organization
+    <span class="chevron">&#9656;</span> Workshop Organization
   </summary>
   <div style="padding-top: 1.5rem;">
 
