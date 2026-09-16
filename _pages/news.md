@@ -3,7 +3,7 @@ layout: page
 title: News
 permalink: /news/
 nav: true
-nav_order: 6
+nav_order: 2
 ---
 <div style="font-family: 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;">
 <ul class="news-list">
