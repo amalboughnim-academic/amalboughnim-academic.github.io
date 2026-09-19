@@ -56,8 +56,8 @@ nav_order: 4
 
     <hr style="border: none; border-top: 0.5px solid #E6DFD2; margin: 2.5rem 0;">
 
-    <span style="font-weight: 500; font-size: 1rem; color: #B07892;">Agendas of Necessity? Gender, Specialization, and Interdisciplinarity in Mathematics</span><span style="font-style: italic; font-size: 0.85rem; color: #5C554C;">, New project, with <a https://sites.google.com/view/chiarasabadin?usp=sharing> Chiara Sabadin</a>. Funding application in process.</span>
-
+  <span style="font-weight: 500; font-size: 1rem; color: #B07892;">Agendas of Necessity? Gender, Specialization, and Interdisciplinarity in Mathematics</span><span style="font-style: italic; font-size: 0.85rem; color: #5C554C;">, New project, with <a href="https://sites.google.com/view/chiarasabadin?usp=sharing" target="_blank">Chiara Sabadin</a>. Funding application in process.</span>
+  
   </div>
 </details>
 
