@@ -132,7 +132,7 @@ cv:
         icon: fa-solid fa-user
         reference: "Professor of Economics, Head of Department, Sciences Po.<br>Research Fellow, CEPR. emeric.henry@sciencespo.fr"
         url: https://www.sciencespo.fr/department-economics/directory/henry-emeric/
-     - name: "Pr. Hanna Hottenrott"
+      - name: "Pr. Hanna Hottenrott"
         icon: fa-solid fa-user
         reference: "Professor of Economics, Technical University of Munich. <br>Head of the research unit “Economics of Innovation and Industrial Dynamics” at ZEW Mannheim. hanna.hottenrott@tum.de"
         url: https://www.ep.mgt.tum.de/eoi/startseite/
