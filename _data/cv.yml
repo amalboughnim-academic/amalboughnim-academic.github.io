@@ -132,6 +132,10 @@ cv:
         icon: fa-solid fa-user
         reference: "Professor of Economics, Head of Department, Sciences Po.<br>Research Fellow, CEPR. emeric.henry@sciencespo.fr"
         url: https://www.sciencespo.fr/department-economics/directory/henry-emeric/
+     - name: "Pr. Hanna Hottenrott"
+        icon: fa-solid fa-user
+        reference: "Professor of Economics, Technical University of Munich. <br>Head of the research unit “Economics of Innovation and Industrial Dynamics” at ZEW Mannheim. hanna.hottenrott@tum.de"
+        url: https://www.ep.mgt.tum.de/eoi/startseite/
       - name: "Pr. Nicolas Carayol"
         icon: fa-solid fa-user
         reference: "Professor of Economics, Bordeaux School of Economics (BSE), University of Bordeaux. Director of the Observatoire des Sciences et Techniques (OST), Hcéres. nicolas.carayol@u-bordeaux.fr"
@@ -140,7 +144,4 @@ cv:
         icon: fa-solid fa-user
         reference: "Professor of Economics, Bordeaux School of Economics (BSE), University of Bordeaux. pascale.roux@u-bordeaux.fr"
         url: https://www.bse.u-bordeaux.fr/membres/pascale-roux/
-      - name: "Dr. Laurent Bergé"
-        icon: fa-solid fa-user
-        reference: "Associate Professor of Economics, Bordeaux School of Economics (BSE), University of Bordeaux. laurent.berge@u-bordeaux.fr"
-        url: https://www.bse.u-bordeaux.fr/membres/laurent-berge/
+
